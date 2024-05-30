@@ -11,7 +11,7 @@ const Navbar = ({ isAuth }) => {
         <FontAwesomeIcon icon={faHouse} />
         ホーム
       </Link>
-      <Link to="/creatpost">
+      <Link to="/createpost">
         <FontAwesomeIcon icon={faFilePen} />
         記事投稿
       </Link>
